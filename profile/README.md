@@ -1,5 +1,5 @@
 # Text Forge - Simplicity to start, power to grow!
-Extensible and modular code editor with Godot 4.4
+Extensible and modular code editor with Godot 4.5
 
 ![GitHub Release](https://img.shields.io/github/v/release/Text-forge/Text-forge)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/text-forge/text-forge/update-docs.yml?logo=github&label=docs%20update)
