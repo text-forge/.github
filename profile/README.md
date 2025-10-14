@@ -71,5 +71,6 @@ You can get help from this list (or be one of them):
 - [Project Wiki](https://github.com/text-forge/text-forge/wiki) - practical guides, examples, and community-driven notes
 - [Mode Library](https://github.com/text-forge/mode-library) - fast & lightweight modules to work with any language
 - [Mode Support Status](https://github.com/text-forge/mode-library#mode-support-status) - find available and work-in-progress modes
+- [Online Marketplace](https://text-forge.github.io/marketplace) - explore and download modes, themes, and extensions in your web browser
 
 Core concept crafted by Mahan Khalili, with an eye toward modularity, control, and clarity.
