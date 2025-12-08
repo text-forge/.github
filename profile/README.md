@@ -48,7 +48,7 @@ All contributions welcome! We have a lot of source and guides for contributing:
 - [Contributing Guide](https://text-forge.github.io/docs/contributing/)
 - [Contribution Types](https://text-forge.github.io/docs/contribution_types/)
 - [Help Wanted Issues](https://github.com/text-forge/text-forge/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22help%20wanted%22)
-- [Translation Project](https://poeditor.com/join/project/XvnPRCjfIf) 
+- [Translation Project](https://hosted.weblate.org/projects/text-forge/) - We use [Hosted Weblate](https://hosted.weblate.org/) for translation
 
 If you are unsure about your contribution, you can always get help at [discussions](https://github.com/text-forge/text-forge/discussions)!
 
