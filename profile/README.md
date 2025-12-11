@@ -14,24 +14,23 @@ Extensible and modular code editor with Godot 4.5
 
 This editor is deeply language-agnostic and suitable for any text format, and its data-driven and object-oriented architecture with plug-and-play modules lets you extend functionality without touching the core.
 
-![auto-formatter-after.png](docs/img/auto-formatter-after.png)
- ^ Text Forge screenshot: HTML mode, Find & Replace panel. Auto-formatted HTML (from [input](docs/img/auto-formatter-before.png)).
+![Text Forge in HTML mode](docs/img/auto-formatter-after.png)
 
 > [!Note]
 > This project currently is in development state, **feel free to contribute in any way you like**.
 
 > [!Important]
-> Text Forge is receiving frequent updates that may break compatibility with previous versions. Until **1.0-alpha1**, it's recommended to delete the app’s data folder before updating. 
-> Please read CHANGELOG.md for complete breaking changes list.
+> Text Forge is receiving frequent updates that _may_ break compatibility with previous versions. Until **1.0-alpha1**, it's recommended to delete the app’s data folder before updating. 
+> Please read release notes for breaking changes of each version before update.
 
-## 👀 New to Text Forge? Start from [Text Forge Introduction](https://text-forge.github.io/docs/introduction/)
-> Explore why you need an editor like Text Forge!
+## 👀 New to Text Forge? Start from [Text Forge Introduction](https://text-forge.github.io/)
+> Explore why you need an editor like Text Forge.
 
-## 🗺️ Want to know more? Take an [Overview of Text Forge here](https://text-forge.github.io/docs)
-> List of features will be available soon
+## 🗺️ Want to know more? Take an [Overview of Text Forge features here](https://text-forge.github.io/features)
+> Take advantage of all the editor's capabilities.
 
 ## 🚀 Ready to install? See [Setup in 5 minutes](https://text-forge.github.io/docs/setup/)
-> Text Forge is lightweight and portable, try it in one minute! 
+> Text Forge is lightweight and portable, try it in one minute.
 
 ## 🧰 Looking for the Mode Library? See [here](https://github.com/text-forge/mode-library)
 > If you like read more about modes you can see [here](https://text-forge.github.io/docs/modes).
@@ -58,13 +57,7 @@ Also, you can make modes, themes, extensions, etc. to improve and customize Text
 
 MIT 2025-present Mahan Khalili and contributors. See full details in the [LICENSE](https://github.com/text-forge/text-forge?tab=MIT-1-ov-file) file.
 
-## Maintainers
-
 This project is a part of [Text Forge Organization](https://github.com/text-forge).
-
-You can get help from this list (or be one of them):
-
-- [Mahan Khalili](https://github.com/mkh-user) - Admin
 
 ## Resources & Useful Links
 
